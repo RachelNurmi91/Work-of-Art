@@ -8,3 +8,4 @@ Work of Art is a front-end interface for Springboard for the Arts Work of Art: B
 * [Bootstrap](https://getbootstrap.com/)
 
 ### Screenshots
+![Home Screen](https://github.com/RachelNurmi91/Work-of-Art/blob/main/screen-shot-1.PNG?raw=true)
