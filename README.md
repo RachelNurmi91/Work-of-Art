@@ -9,3 +9,5 @@ Work of Art is a front-end interface for Springboard for the Arts Work of Art: B
 
 ### Screenshots
 ![Home Screen](https://github.com/RachelNurmi91/Work-of-Art/blob/main/screen-shot-1.PNG?raw=true)
+![Registration Modal](https://github.com/RachelNurmi91/Work-of-Art/blob/main/screen-shot-2.PNG?raw=true)
+![Artist Poral](https://github.com/RachelNurmi91/Work-of-Art/blob/main/screen-shot-3.PNG?raw=true)
