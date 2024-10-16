@@ -1,22 +1,10 @@
 # Work of Art
 
-An interactive home for Springboard for the Arts Work of Art: Business Skills for Artists curriculum. Project was created in collaberation with [Adia Morris Swanger](https://github.com/adiamorrisswanger/) for the final class project in the [Nucamp Software Developer Bootcamp](https://nucamp.co/).
+Work of Art is a front-end interface for Springboard for the Arts Work of Art: Business Skills for Artists curriculum. The project was developed in collaboration with [Adia Morris Swanger](https://github.com/adiamorrisswanger/) for the final class project in the [Nucamp Software Developer Bootcamp](https://nucamp.co/). The initial application was a static website created with HTML, CSS, and Javascript. The goal of this redesign was to recreate the static site using a front-end JavaScripy library to make it more interactive and work in a collaborative environment using GitHub. We worked together to learn how to structure and build an application with React and Redux. It utilizes Javascript and React to interact with objects to create a functional and interactive website for students.
 
-### Built with
+### Libraries & Packages
 * [React](https://react.dev/)
+* [Redux](https://redux.js.org/)
 * [Bootstrap](https://getbootstrap.com/)
 
-### What I learned
-The first draft of this project just consisted of functions passing functions until the game ended. I rebuilt this project to make it object oriented. Instead of functions passing through eachother a number of objects pass through one function. I learned how to pass functions by deconstructing objects and how to set a function as an object property.
-
 ### Screenshots
-![Game Screenshot](screenshots/SunFoxScreenShotTitle.png)
-> Screenshot of the title screen.
-
-
-![Game Screenshot](screenshots/SunFoxScreenShot.png)
-> Start of game screenshot.
-
-
-![Game Screenshot](screenshots/SunFoxScreenShot2.png)
-> Screenshot a random scene from the game to show the changes in avatar, text and buttons.
